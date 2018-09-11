@@ -6,11 +6,11 @@ LavoWeb est un studio de développement spécialisé dans le développement e-co
 
 ### En France
 
-Voici le site : http://lavoweb.net/
+Voici le site : [lavoweb.net](http://lavoweb.net/)
 
 ### A l'international
 
-Voici le site : https://lumao.eu/
+Voici le site : [lumao.eu](https://lumao.eu/)
 
 Le marché principal est la Suisse, mais nous avons des clients partout dans le monde. USA, Canadie, Australie, Japon et dans l'UE : Belgique, Luxembourg.
 
@@ -32,6 +32,6 @@ On essaye de contribuer un minimum aux projets qui nous font vivre. Il y a pas m
 
 ### Docker
 
-https://github.com/LavoWeb/Docker
+[https://github.com/LavoWeb/Docker](https://github.com/LavoWeb/Docker)
 
 Notre projet le plus actif, tout simplement car nous l'utilisons tous les jours dans nos prestations d'hébergement.
